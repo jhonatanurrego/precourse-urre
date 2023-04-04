@@ -1,2 +1,1 @@
-# precourse-urre
-aja
+tutorial para nada intuitivo y una farsa total
